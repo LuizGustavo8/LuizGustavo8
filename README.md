@@ -13,7 +13,9 @@
 
 <p style="color: #b38c7f;">My name is Luiz Gustavo, I'm Studying Computer Engineering at CEFET-MG. I love technology in general, and love even more learn more and more about it...</p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I love connecting with different people! So, if you want to say hi, just mail me I'll be happy to get to know you better!"</b></em>
+
+<img src="https://giphy.com/gifs/deal-with-it-sunglasses-email-aOften89vRbG" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"luiz.880088@gmail.com"</b></em>
 
 <div align="center">
   <a href="https://github.com/LuizGustavo8">
@@ -63,7 +65,6 @@
   <a href="https://discordapp.com/users/luiz_gustavo8/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/discord.png" alt="Discord"/></a>
   <a href="https://www.instagram.com/luiz.gustavo88/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram"/></a>
   <a href="https://www.linkedin.com/in/luiz-gustavo-barbosa-camargos-59150b159/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin"/></a>
-  <a href="https://www.linkedin.com/in/luiz-gustavo-barbosa-camargos-59150b159/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin"/></a>
 </p>
 
-<h4 align="center" style="color: #ba6771;">Thanks for Visiting! luiz.880088@gmail.com </h4>
+<h4 align="center" style="color: #ba6771;">Thanks for Visiting!</h4>
