@@ -15,8 +15,6 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I love connecting with different people! So, if you want to say hi, just mail me I'll be happy to get to know you better!"</b></em>
 
-<img src="https://giphy.com/embed/aOften89vRbG" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"luiz.880088@gmail.com"</b></em>
-
 
 <div align="center">
   <a href="https://github.com/LuizGustavo8">
@@ -68,4 +66,5 @@
   <a href="https://www.linkedin.com/in/luiz-gustavo-barbosa-camargos-59150b159/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin"/></a>
 </p>
 
-<h4 align="center" style="color: #ba6771;">Thanks for Visiting!</h4>
+<h4 align="center" style="color: #ba6771;">Thanks for Visiting! 🙏</h4>
+<h4 align="center" style="color: #ba6771;">📧: luiz.880088@gmail.com </h4>
