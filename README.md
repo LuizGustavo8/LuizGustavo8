@@ -1,10 +1,3 @@
-### Hi there 👋, my name is Luiz Gustavo
-
-
-- 💻 Studying Computer Engineering at CEFET-MG 
-- 📚 Currently learning Data Science
-- 👾 Tech Lover
-- 📧 luiz.880088@gmail.com
 
 <!-- Title -->
 <h1 align="center" style="color: #ba6771;">
@@ -41,11 +34,6 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python3">
   </a>
-  <a href="https://www.djangoproject.com/">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <a href="https://www.qt.io/">
-    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="QT">
-  </a>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
@@ -75,15 +63,7 @@
   <a href="https://discordapp.com/users/luiz_gustavo8/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/discord.png" alt="Discord"/></a>
   <a href="https://www.instagram.com/luiz.gustavo88/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram"/></a>
   <a href="https://www.linkedin.com/in/luiz-gustavo-barbosa-camargos-59150b159/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin"/></a>
+  <a href="https://www.linkedin.com/in/luiz-gustavo-barbosa-camargos-59150b159/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin"/></a>
 </p>
 
-<h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
-
-<div align="center">
-  <a  href="https://wendellast.github.io/Config/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" target="_blank" alt="Portfolio"></a>
-  <a href="https://wendellast2a.medium.com/" target="__blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
-</div>
-
-<br>
-
-[![Wendel Alves's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wendellast&bg_color=170f0c&color=ba6771&line=b38c7f&point=c16a75&area=true&hide_border=true)](https://github.com/wendellast)
+<h4 align="center" style="color: #ba6771;">Thanks for Visiting! luiz.880088@gmail.com </h4>
