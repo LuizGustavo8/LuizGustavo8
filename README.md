@@ -11,7 +11,7 @@
 
 <h2  style="color: #ba6771;">Overview 👾</h2>
 
-<p style="color: #b38c7f;">My name is Luiz Gustavo, I'm Studying Computer Engineering at CEFET-MG. I love technology in general, and love even more learn more and more about it!</p>
+<p style="color: #b38c7f;">My name is Luiz Gustavo, I'm currently studying Computer Engineering at CEFET-MG. I love technology in general, and love even more learn more and more about it!</p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I love connecting with different people! So, if you want to say hi, just mail me I'll be happy to get to know you better!"</b></em>
 
