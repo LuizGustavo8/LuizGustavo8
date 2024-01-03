@@ -15,9 +15,8 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I love connecting with different people! So, if you want to say hi, just mail me I'll be happy to get to know you better!"</b></em>
 
-<img src="https://giphy.com/gifs/deal-with-it-sunglasses-email-aOften89vRbG" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"luiz.880088@gmail.com"</b></em>
+<img src="https://giphy.com/embed/aOften89vRbG" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"luiz.880088@gmail.com"</b></em>
 
-<iframe src="https://giphy.com/embed/aOften89vRbG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/deal-with-it-sunglasses-email-aOften89vRbG">via GIPHY</a></p>
 
 <div align="center">
   <a href="https://github.com/LuizGustavo8">
