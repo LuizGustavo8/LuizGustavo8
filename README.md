@@ -68,3 +68,5 @@
 
 <h4 align="center" style="color: #ba6771;">Thanks for Visiting! 🙏</h4>
 <h4 align="center" style="color: #ba6771;">📧: luiz.880088@gmail.com </h4>
+
+[![Luiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizGustavo8&bg_color=170f0c&color=ba6771&line=b38c7f&point=c16a75&area=true&hide_border=true)](https://github.com/LuizGustavo8)
