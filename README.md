@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/LuizGustavo8">
-    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=LuizGustavo8&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
+    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=LuizGustavo8&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/LuizGustavo8"></a>
   <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGustavo8&layout=compact&langs_count=7&theme=date_night"/>
@@ -69,4 +69,4 @@
 <h4 align="center" style="color: #ba6771;">Thanks for Visiting! 🙏</h4>
 <h4 align="center" style="color: #ba6771;">📧: luiz.880088@gmail.com </h4>
 
-[![Luiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizGustavo8&bg_color=170f0c&color=ba6771&line=b38c7f&point=c16a75&area=true&hide_border=true)](https://github.com/LuizGustavo8)
+[![Luiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizGustavo8&bg_color=170f0c&color=ba6771&line=b38c7f&point=c16a75&area=true&hide_border=true&theme=react-dark)](https://github.com/LuizGustavo8)
