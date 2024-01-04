@@ -54,7 +54,10 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
-  </a>  
+  </a>
+  <a href="https://colab.google">
+    <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&color=%23F9AB00" alt="GoogleColab">
+  </a>
 
 </p>
 
